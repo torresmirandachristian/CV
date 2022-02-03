@@ -177,6 +177,7 @@ p {
 
 .about .box .year_company {
     min-width: 150px;
+    padding-right: 15px;
 }
 
 .about .box .year_company h5 {
